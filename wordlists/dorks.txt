@@ -1,0 +1,64 @@
+intitle:"Index of /"
+inurl:login
+inurl:signup
+inurl:admin
+inurl:dashboard
+inurl:wp-admin
+inurl:cpanel
+inurl:webmail
+inurl:phpmyadmin
+inurl:upload
+inurl:download
+inurl:file
+inurl:view
+inurl:report
+inurl:secure
+inurl:private
+inurl:config
+inurl:db
+inurl:sql
+inurl:env
+inurl:passwd
+ext:log
+ext:sql
+ext:xml
+ext:json
+ext:csv
+ext:bak
+ext:old
+ext:conf
+ext:ini
+ext:env
+ext:zip
+ext:tar
+ext:gz
+ext:rar
+site:*.* inurl:php?id=
+site:*.* inurl:view.php?id=
+site:*.* inurl:article.php?id=
+site:*.* inurl:news.php?id=
+site:*.* inurl:item.php?id=
+site:*.* inurl:product.php?id=
+site:*.* inurl:index.php?id=
+site:*.* inurl:profile.php?id=
+site:*.* inurl:download.php?file=
+site:*.* inurl:admin/login.php
+site:*.* inurl:user/login
+site:*.* inurl:auth
+site:*.* intitle:"Login"
+site:*.* intitle:"Admin Panel"
+site:*.* intitle:"Welcome to"
+"API key" filetype:env
+"DB_PASSWORD" filetype:env
+"MYSQL_PASSWORD" filetype:env
+"mailgun_api_key" filetype:env
+"Authorization: Bearer"
+"X-API-KEY"
+"confidential"
+"not for public release"
+"internal only"
+"private key"
+"BEGIN RSA PRIVATE KEY"
+"-----BEGIN PRIVATE KEY-----"
+"password="
+"secret="
